@@ -3,7 +3,7 @@ From: registry.gitlab.com/rode0day/fuzzer-testing/eclipser_runner:16.04
 
 %labels
     MAINTAINER Josh Bundt
-    DockerTagID dd3e88e86
+    DockerTagID a2640ef04
 
 %environment
     AFL_SKIP_CPUFREQ=1
